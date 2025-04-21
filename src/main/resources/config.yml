@@ -1,0 +1,25 @@
+farmRadius: 30
+defaultInventorySize: 12
+miningInterval: 100
+farmingInterval: 200
+hologramDisplayTicks: 60
+miningDistance: 1
+miningBlockTypes:
+  - STONE
+cropBlockTypes:
+  - WHEAT
+  - CARROTS
+  - POTATOES
+  - BEETROOTS
+  - NETHER_WART
+  - COCOA
+  - PUMPKIN
+  - MELON
+skinsFolder: skins
+skinFiles:
+  mining: mining.png
+  farming: farming.png
+defaultSkin: default.png
+dataStorage:
+  type: YAML
+  file: minions.yml
